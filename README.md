@@ -10,7 +10,7 @@
 - Accounts Locked
 - Due to API instability Apollo Codegen/CLI removed
 - PostgreSQL with TypeORM
-- Testing setup is minimal and unopinionated though Jest be able to be initialized with current configuration
+- Testing setup is minimal and unopinionated
 
 ## Fork and Yarn Install See ormconfig for DB setup
 

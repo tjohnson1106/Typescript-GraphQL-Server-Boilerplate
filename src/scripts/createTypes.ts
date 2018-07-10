@@ -10,6 +10,6 @@ fs.writeFile(
   path.join(__dirname, "../types/schema.d.ts"),
   typescriptTypes,
   err => {
-    console.log(err);
+    console.log(err, "err");
   }
 );
